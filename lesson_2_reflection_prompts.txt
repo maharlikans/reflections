@@ -5,6 +5,10 @@ Initializing a repository indicates that we want to use git to do version contro
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+The staging area is more for letting you determine which files you’d want to add to the repository. The repository itself is the entire file history and files. And the working directory seems to be which directory you’re changing files in the repository. 
+
+Its utility is in allowing you to prepare to commit. 
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
