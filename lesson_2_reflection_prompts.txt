@@ -12,8 +12,12 @@ Its utility is in allowing you to prepare to commit.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+You can make sure that all the files in the staging area are belonging to a single logical change, maybe a bug fix or something. Don’t add any files that don’t logically make sense as a change. 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+If you’re making another version of your project or product, then using git is super helpful for creating another working version without breaking your main product. 
 
 How do the diagrams help you visualize the branch structure?
 
