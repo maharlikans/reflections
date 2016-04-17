@@ -21,6 +21,8 @@ If you’re making another version of your project or product, then using git is
 
 How do the diagrams help you visualize the branch structure?
 
+They show how each commit corresponds to the previous and how some are branching away from the others and others are not reachable. 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
