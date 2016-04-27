@@ -29,7 +29,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    If you have a copy of the last known state stored locally, you can use it
+    offline if you're going on a plane ride, or something similar. Having to
+    rely on the internet all the time is inconvenient and impossible right now.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
